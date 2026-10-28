@@ -1,1 +1,1 @@
-# a kanye west quotes generator. minimal. uses api, and neat.
+# a kanye west quotes generator. minimal. uses api. pretty neat.
